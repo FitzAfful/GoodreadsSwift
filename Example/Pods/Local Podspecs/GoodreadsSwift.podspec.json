@@ -1,0 +1,22 @@
+{
+  "name": "GoodreadsSwift",
+  "version": "0.1.0",
+  "summary": "A short description of GoodreadsSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fitzafful/GoodreadsSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fitzafful": "fitzafful@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/fitzafful/GoodreadsSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GoodreadsSwift/Classes/**/*"
+}

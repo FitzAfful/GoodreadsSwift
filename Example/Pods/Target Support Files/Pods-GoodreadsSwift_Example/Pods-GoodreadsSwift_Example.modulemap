@@ -1,0 +1,6 @@
+framework module Pods_GoodreadsSwift_Example {
+  umbrella header "Pods-GoodreadsSwift_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

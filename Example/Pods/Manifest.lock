@@ -1,0 +1,16 @@
+PODS:
+  - GoodreadsSwift (0.1.0)
+
+DEPENDENCIES:
+  - GoodreadsSwift (from `../`)
+
+EXTERNAL SOURCES:
+  GoodreadsSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GoodreadsSwift: a6eb7f6f5bbfab8127255c35666819f6a09d102d
+
+PODFILE CHECKSUM: 78dab077c6f08d3686fcb030107594bdecb0d400
+
+COCOAPODS: 1.8.4

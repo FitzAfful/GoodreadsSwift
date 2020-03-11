@@ -1,0 +1,6 @@
+framework module GoodreadsSwift {
+  umbrella header "GoodreadsSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
