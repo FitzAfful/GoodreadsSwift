@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GoodreadsSwift_Example' do
+  pod 'GoodreadsSwift', :path => '../'
+
+  target 'GoodreadsSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
